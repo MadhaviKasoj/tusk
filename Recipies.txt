@@ -6,6 +6,13 @@ Kherr
 pasta
 chicken
 
+beans 
+pizza
+
 thankyou
 
+
+done
+
 final
+
